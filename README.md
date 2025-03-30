@@ -1,5 +1,5 @@
 # GfG-160-Days-of-Problem-Solving
-Welcome to this #Repository where I’m documenting my journey through the GeeksforGeeks 160 - 160 Days of Problem Solving Challenge! 🧑‍💻✨
+Welcome to this Repository where I’m documenting my journey through the GeeksforGeeks 160 - 160 Days of Problem Solving Challenge! 🧑‍💻✨
 
 
 Over the next 160 days, I’ll be solving a new coding problem every single day 🔥, covering everything from Arrays to Dynamic Programming, Graphs, Bit Manipulation, and much more. This challenge is all about leveling up my problem-solving skills, building consistency, and preparing for coding interviews. 📈🎯
@@ -308,9 +308,9 @@ I’m excited to dive deep into algorithms, write efficient solutions, and grow 
 
 2. Weighted Job Scheduling 💼
 
-3. Job Sequencing 📅 4
+3. Job Sequencing 📅 
 
-. Maximize Partitions with Unique Characters 🧩
+4. Maximize Partitions with Unique Characters 🧩
 
 # 🧑‍💻 Graph
 
@@ -368,19 +368,32 @@ I’m excited to dive deep into algorithms, write efficient solutions, and grow 
 
 5. Unique Number 3 🧩
 
+
+
 # 🚀 About the Challenge
 The GeeksforGeeks 160 Days of Problem Solving Challenge is designed to help individuals become more consistent in problem-solving and strengthen their understanding of algorithms and data structures. The goal is to solve one problem every day for 160 days, tackling different areas like arrays, strings, dynamic programming, graph theory, and much more.
 
+
+
 # 🥳 Why I'm Excited:
 -Consistency: It forces me to solve at least one problem a day, helping me build a regular coding habit. 🧑‍💻
+
 -Diverse Problems: The problems range from easy to hard, ensuring a steady increase in difficulty and exposure to new concepts. 🔥
+
 -Improved Problem-Solving Skills: It pushes me to think critically and write efficient solutions. 💡
+
 -Community and Learning: GeeksforGeeks has a vibrant community of coders. Let’s learn and grow together! 👩‍💻👨‍💻
+
+
 
 # 🤝 Contributing
 Feel free to fork this repository, contribute solutions, or simply use the resources here to improve your own skills. If you'd like to share your solutions or any suggestions, don’t hesitate to open an issue or submit a pull request! 💬
 
+
+
 # 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the #LICENSE file for details.
+
+
 
 Thank you for joining me on this 160-day journey! Let's stay motivated and keep coding! 💻💪🎉🚀
